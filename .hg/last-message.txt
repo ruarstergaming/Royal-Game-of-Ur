@@ -1,0 +1,1 @@
+Added javadoc code for each method in the AI class
